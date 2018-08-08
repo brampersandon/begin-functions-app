@@ -1,0 +1,7 @@
+{
+  "name": "fugue-t5j-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
